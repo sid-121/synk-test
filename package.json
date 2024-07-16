@@ -31,7 +31,7 @@
     "underscore.string": "^3.3.5",
     "v-mask": "^2.2.3",
     "vee-validate": "^2.2.5",
-    "vue": "^2.6.10",
+    "vue": "^2.7.16",
     "vue-axios": "^3.4.1",
     "vue-clip": "^1.0.0",
     "vue-grid-layout": "^2.3.7",
