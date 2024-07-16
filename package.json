@@ -19,7 +19,7 @@
     "flatted": "^2.0.1",
     "interactjs": "^1.7.3",
     "js-cookie": "^2.2.1",
-    "libphonenumber-js": "^1.9.6",
+    "libphonenumber-js": "^1.11.4",
     "material-design-icons-iconfont": "^5.0.1",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.27",
