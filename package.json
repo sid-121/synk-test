@@ -17,7 +17,7 @@
     "circular-json": "^0.5.9",
     "core-js": "^3.4.3",
     "flatted": "^2.0.1",
-    "interactjs": "^1.7.3",
+    "interactjs": "^1.10.27",
     "js-cookie": "^2.2.1",
     "libphonenumber-js": "^1.9.6",
     "material-design-icons-iconfont": "^5.0.1",
