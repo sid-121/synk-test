@@ -5,7 +5,7 @@
 #COPY . .
 #CMD ["npm", "run", "dev"]
 #FROM node:9-alpine
-FROM node:10.15.0
+FROM node:16-alpine
 WORKDIR "/home/app/hummingbird/"
 COPY ./package.json ./
 #RUN npm install -g @vue/cli-service-global
